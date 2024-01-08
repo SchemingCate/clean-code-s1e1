@@ -24,7 +24,6 @@ button {
 .about {
   width: 500px;
   margin: 0 auto;
-  display: block;
   text-align: right;
 }
 
@@ -42,7 +41,6 @@ button {
   }
 }
 .main {
-  display: block;
   width: 500px;
   margin: 0 auto;
 }
